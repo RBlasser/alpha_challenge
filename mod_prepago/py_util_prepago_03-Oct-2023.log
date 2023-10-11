@@ -1,0 +1,48 @@
+2023-10-03 16:48:45.491943 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 16:48:45.494934 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 16:48:45.494934 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 16:51:05.686377 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 16:51:05.688403 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 16:51:05.689415 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 16:51:33.214161 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 16:51:33.216373 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 16:51:33.217420 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 16:51:42.824563 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 16:51:42.826553 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 16:51:42.828549 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 16:52:02.211304 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 16:52:02.213158 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 16:52:02.216182 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 16:53:39.444603 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 16:53:39.446189 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 16:53:39.448203 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 16:54:26.362503 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 16:54:26.364753 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 16:54:26.365750 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 16:55:58.834498 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 16:55:58.836399 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 16:55:58.838393 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 16:57:40.872671 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 16:57:40.874779 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 16:57:40.877244 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 17:14:38.193717 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 17:14:38.196043 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 17:14:38.197029 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 17:15:30.594043 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 17:15:30.595042 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 17:15:30.596040 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 17:17:52.074403 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 17:17:52.074907 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 17:17:52.075902 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 17:19:24.581640 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 17:19:24.583034 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 17:19:24.584553 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 17:20:25.783662 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 17:20:25.785446 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 17:20:25.787451 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 17:21:52.449812 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 17:21:52.450559 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 17:21:52.453496 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+2023-10-03 17:23:08.859840 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-10-03 17:23:08.860876 |Error:  adj_cap - 'NoneType' object is not iterable|Param: 
+2023-10-03 17:23:08.862834 |Error:  builder - 'NoneType' object is not iterable|Param: 595232

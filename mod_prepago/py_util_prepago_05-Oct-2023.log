@@ -1,0 +1,6 @@
+2023-10-05 10:31:43.750899 |Error:  add_prepago - index 9 is out of bounds for axis 0 with size 9|Param: 
+2023-10-05 10:31:43.756938 |Error:  add_prepago - index 21 is out of bounds for axis 0 with size 11|Param: 
+2023-10-05 10:31:43.764688 |Error:  add_prepago - index 33 is out of bounds for axis 0 with size 11|Param: 
+2023-10-05 15:47:12.122515 |Error:  add_prepago - index 9 is out of bounds for axis 0 with size 9|Param: 
+2023-10-05 15:47:12.128501 |Error:  add_prepago - index 21 is out of bounds for axis 0 with size 11|Param: 
+2023-10-05 15:47:12.133533 |Error:  add_prepago - index 33 is out of bounds for axis 0 with size 11|Param: 

@@ -1,0 +1,23 @@
+2023-09-17 20:28:01.701508 |Error: cap_vector - cannot call `vectorize` on size 0 inputs unless `otypes` is set|Param: 
+2023-09-17 20:28:01.701508 |Error:  builder - 'NoneType' object is not iterable|Param: 595232
+
+
+****************Error cuando se envía cantidad de pagos en 358
+Algo está ocurriendo con los pagos enviados... está recalculando la cantidad internamente??*******************
+
+df = pd.read_excel("detalle_sin_prepagoSub_595232.xlsx", sheet_name='Sheet1')
+strCredito  =  '595232'
+interest_rate = 0.055
+flt_pagos_periodo =  358
+principal = 86592.12
+start_date = '2023-05-29'
+end_date = '2053-06-16'
+strProducto ='sub'
+str_Fecha_Proceso = '2023-08-18'
+payments_year_cap =  12
+frecuency_cap = 1
+flt_pagos_periodo_cap = 358
+strPeriodicidad_intereses = 'M'
+strPeriodicidad_capital = 'M'
+flt_califcred = 3
+
